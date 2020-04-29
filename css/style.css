@@ -9,7 +9,7 @@ body {
 
 #calcOutput {
     background-color: #bdc3c7;
-    width: 250px;
+    width: 80%;
     height: 75px;
     border-top-left-radius: 2em;
     border-top-right-radius: 2em;
@@ -22,12 +22,12 @@ body {
 #steps {
     color: black;
     padding-left: 50px;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 #calculator {
     background-color: #7f8c8d;
-    width: 250px;
+    width: 80%;
     padding-top: 20px;
     padding-bottom: 30px;
     border-bottom-left-radius: 2em;
@@ -37,11 +37,12 @@ body {
 }
 
 a {
-    margin: 5px;
-    width: 2.6vw;
-    height: 2.6vw;
+    margin: 2rem;
+    width: 20%;
+    padding: 8rem;
+    font-size: 2em !important;
 }
 
 .bigButton {
-    width: 93px;
+    width: 30%;
 }
